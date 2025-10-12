@@ -1,29 +1,24 @@
-<!-- 
-Assignment 3.4:
-Describe advantages, limitations, and offer any advice to help a new writer get started using Markdown
--->
-
-# Markdown Quickstart: Advantages, Limitations and Advice :sunglasses:
+# Markdown guide: pros, cons, and tips
 
 ## Advantages :sparkles:
 
-1. **Readability**: uses plain text language and minimal structure, allowing you to focus on the content itself rather than complex formatting syntax.
-2. **Wide Adoption**: supported across many platforms, making it a valuable skill that can be applied in many contents.
-3. **Version Control**: while using Markdown with systems like Git, changes are easy to track, simplifying collaboration, reviews, and edit records.
+1. **Easy to Read**: uses plain text, so you can focus on what you write, not on tricky formatting.
+2. **Works Everywhere**: many apps and sites use Markdown, so you can use it in lots of places.
+3. **Tracks Changes**: with tools like Git, you can see what changed and work with others easily.
 
 ## Limitations :triangular_flag_on_post:
 
-1. **Not Standardized**: you never know how it will be rendered in a browser
-2. **Stylistically Limited**: the ways in which you can disaply your content are confined
-3. **Incompatiblity**: many versions exist in which people have extended Mardown's functionality, which cannot guarantee compatibility with other tools
+1. **Not Always the Same**: Markdown can look different in each app or website.
+2. **Few Style Choices**: you don't have control over the design layout.
+3. **Different Versions**: some tools add new features, but they might not work everywhere.
 
 ## Advice :writing_hand:
 
-1. **Experiment**: create a new Markdown file in this format *<your_file_name.md>*. Use the preview feature in your text editor to practice formatting and develop a preference. 
-2. **Cheat Sheet**: check out [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) to reference John Gruber's original design document.
-3. **More Information**: refer to [Basic Syntax](https://www.markdownguide.org/basic-syntax/) and [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+1. **Try It Out**: make a new Markdown file like _*my_notes.md*_. Use the preview in your editor to see how it looks.
+2. **Use a Cheat Sheet**: see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for quick help.
+3. **Learn More**: read about [Basic Syntax](https://www.markdownguide.org/basic-syntax/) and [Extended Syntax](https://www.markdownguide.org/extended-syntax/).
 
-## Common Examples
+## Common examples :sunglasses:
 
 | Element |       Markdown Syntax       |
 | --------| --------------------------- |
