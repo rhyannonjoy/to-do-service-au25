@@ -1,6 +1,9 @@
 # To-Do Service API
 
-The To-Do Service API is a RESTful web service that enables you to build task management capabilities into your applications. Whether you're creating a productivity app, project management tool, or a simple reminder system, this API provides the feature you need to manage tasks in the cloud.
+The To-Do Service API is a RESTful web service that enables you to build task management capabilities
+into your applications.
+Whether you're creating a productivity app, project management tool, or a simple reminder system,
+this API provides the feature you need to manage tasks in the cloud.
 
 ## What you can do
 
@@ -20,7 +23,7 @@ This API serves developers who want to integrate task management features withou
 ## Getting started
 
 - Use the [Quickstart](https://uwc2-apidoc.github.io/to-do-service-au25/) guide to post your first task
-- Before exploring [Tutorials](https://uwc2-apidoc.github.io/to-do-service-au25/tutorials//) check out [Before you start a tutorial](https://uwc2-apidoc.github.io/to-do-service-au25/before-you-start-a-tutorial/)
+- Before exploring [Tutorials](../tutorials.md) check out [Before you start a tutorial](../before-you-start-a-tutorial.md)
 - Dive into the [API reference docs](https://uwc2-apidoc.github.io/to-do-service-au25/api/task/) for endpoint details
 
 ## Help improve To-Do Service API
